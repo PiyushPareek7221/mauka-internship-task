@@ -1,0 +1,66 @@
+.footer{
+    position: relative;
+    width: 100%;
+    color: white;
+}
+.footer>img{
+    width: 100%;
+    object-fit: contain;
+}
+.contact-details{
+    margin-top: 150px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.first>div>img{
+    height: 65px;
+    margin-bottom: 30px;
+}
+.first>p{
+    width:320px;
+    margin: 10px 0 50px 0;
+    font-size: 13px;
+}
+.line{
+    width: 99px;
+    height: 3px;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    background-color: turquoise;
+}
+.info{
+    width: 79px;
+    height: 3px;
+    margin-top: -2px;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    background-color: turquoise;
+}
+.second>h2{
+    font-size: 22px;
+    margin-top: 15px;
+}
+.second>p{
+    font-size: 15px;
+    margin: 20px 0;
+}   
+.third>h3{
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+.hyperlinks>img{
+    height: 40px;
+    margin: 10px 20px 0 0;
+}
